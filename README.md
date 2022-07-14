@@ -1,17 +1,9 @@
 
 ## Project EMR - Electronic Medical Record
 
-## 🗃️&nbsp; Table of Contents
+## ▶️&nbsp; Application in operation <a name="application-operation"></a>
 
-* [About the project](#about-project)
-* [Class diagram](#class-diagram)
-* [Application flowchart](#application-flowchart)
-* [Application in operation](#application-operation)
-* [Instructions for execute the Project](#execute-project)
-* [Technologies and Concepts](#technologies)  
-* [Authors](#authors)
-
-</br>
+   ![Aplication Runing](./image/gifs/electronic_medical_record.gif)
 
 ---
 
@@ -47,9 +39,7 @@ The system flow is based on the concept:
 
 ----
 
-## ▶️&nbsp; Application in operation <a name="application-operation"></a>
 
-   ![Aplication Runing](./image/gifs/electronic_medical_record.gif)
 
 ## 👨🏽‍🏫&nbsp; Instructions for execute the Project <a name="execute-project"></a>
 
